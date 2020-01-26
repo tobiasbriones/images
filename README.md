@@ -17,3 +17,5 @@ The images have a name, suppose the image name is *"image-x.png"*, by formatting
 
 > "Image X" by Tobias Briones is licensed under CC-BY-4.0. Available at
 > https://github.com/TobiasBriones/images/tree/master/software-xyz
+
+Where you will replace *Image X* by the formatted name of the image you are using, and the link by the corresponding link as mentioned above.
