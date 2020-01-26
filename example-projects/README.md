@@ -10,6 +10,7 @@ Feel free to use the images, you do not need to ask for permission to use them a
 
 For more images, go to [Images repository root](https://github.com/TobiasBriones/images).
 
+## Example Projects
 Next, a list to access faster to one of the example projects images folders:
 
 - [Decision Making Under Certainty](https://github.com/TobiasBriones/images/tree/master/example-projects/example.math.or.ahp.decision-making-under-certainty)
