@@ -9,7 +9,7 @@ Feel free to use the images, you do not need to ask for permission to use them a
 
 For more images, go to [Images repository root](https://github.com/TobiasBriones/images).
 
-For more about Gencesk 2D go to [Gencesk 2D repository](https://github.com/TobiasBriones/gencesk-2d).
+For more about Gencesk 2D, go to [Gencesk 2D repository](https://github.com/TobiasBriones/gencesk-2d).
 
 ## License
 Copyright © Tobias Briones All rights reserved.
