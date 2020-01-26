@@ -38,4 +38,4 @@ The images have a name, suppose the image name is _"image-x.png"_, by formatting
 > "Example Project XYZ, Image X" by Tobias Briones is licensed under CC-BY-4.0. Available at
 > https://github.com/TobiasBriones/images/tree/master/example-projects
 
-Where you will replace _Example Project XYZ_ by the corresponding example project (see the list above) and _Image X_ by the formatted name of the image you are using.
+Where you will replace _Example Project XYZ_ by the corresponding example project name [see the list above](https://github.com/TobiasBriones/images/blob/master/example-projects/README.md#example-projects) and _Image X_ by the formatted name of the image you are using.
