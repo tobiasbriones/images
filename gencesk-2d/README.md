@@ -12,7 +12,7 @@ For more images, go to [Images repository root](https://github.com/TobiasBriones
 For more about Gencesk 2D, go to [Gencesk 2D repository](https://github.com/TobiasBriones/gencesk-2d).
 
 ## License
-Copyright © Tobias Briones All rights reserved.
+Copyright © Tobias Briones. All rights reserved.
 
 Creative Commons Attribution 4.0 International License: https://creativecommons.org/licenses/by/4.0/legalcode
 
