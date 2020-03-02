@@ -6,7 +6,7 @@ Hosting repository for images of any of my projects published in GitHub.
 Feel free to use the images, you do not need to ask for permission to use them as long as you comply with the license.
 
 ## License
-Copyright © Tobias Briones All rights reserved.
+Copyright © Tobias Briones. All rights reserved.
 
 Creative Commons Attribution 4.0 International License: https://creativecommons.org/licenses/by/4.0/legalcode
 
