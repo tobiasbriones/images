@@ -8,11 +8,12 @@ I provide all the content in this repository under the CC-BY-4.0 License.
 
 Feel free to use the images, you do not need to ask for permission to use them as long as you comply with the license.
 
-For more images, go to [Images repository root](https://github.com/TobiasBriones/images).
+For more images, go to the [Images repository root](https://github.com/TobiasBriones/images).
 
 ## Example Projects
 Next, a list to access faster to one of the example projects images folders:
 
+- [Coniestica](https://github.com/TobiasBriones/images/tree/master/example-projects/example.programming.web.coniestica/)
 - [Decision Making Under Certainty](https://github.com/TobiasBriones/images/tree/master/example-projects/example.math.or.ahp.decision-making-under-certainty)
 - [Factura](https://github.com/TobiasBriones/images/tree/master/example-projects/example.programming.java.factura)
 - [FSM](https://github.com/TobiasBriones/images/tree/master/example-projects/example.math.computation.model.cpp.fsm)
