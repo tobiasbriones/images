@@ -13,7 +13,8 @@ For more images, go to the [Images repository root](https://github.com/TobiasBri
 ## Example Projects
 Next, a list to access faster to one of the example projects images folders:
 
-- [Coniestica](https://github.com/TobiasBriones/images/tree/master/example-projects/example.programming.web.coniestica/)
+- [Apps for Northwind DB MySQL](https://github.com/TobiasBriones/images/tree/master/example-projects/example.dev.fullstack.web-desktop.apps-for-northwinddb-mysql)
+- [Coniestica](https://github.com/TobiasBriones/images/tree/master/example-projects/example.programming.web.coniestica)
 - [Decision Making Under Certainty](https://github.com/TobiasBriones/images/tree/master/example-projects/example.math.or.ahp.decision-making-under-certainty)
 - [Factura](https://github.com/TobiasBriones/images/tree/master/example-projects/example.programming.java.factura)
 - [FSM](https://github.com/TobiasBriones/images/tree/master/example-projects/example.math.computation.model.cpp.fsm)
