@@ -37,7 +37,7 @@ This content is published under the [CC-BY-4.0 License](https://creativecommons.
 
 The images have a name, suppose the image name is _"image-x.png"_, by formatting the image name (removing the file extension, replacing "-" by one whitespace and capitalizing) we have that the formatted image name is _"Image X"_. Suppose that _Image X_ belongs to _Example Project XYZ_, the attribution notice goes as follows:
 
-> "Example Project XYZ, Image X" by Tobias Briones is licensed under CC-BY-4.0. Available at
+> "Example Project: XYZ, Image X" by Tobias Briones is licensed under CC-BY-4.0. Available at
 > https://github.com/TobiasBriones/images/tree/master/example-projects
 
 Where you will replace _Example Project XYZ_ by the corresponding example project name [see the list above](https://github.com/TobiasBriones/images/blob/master/example-projects/README.md#example-projects) and _Image X_ by the formatted name of the image you are using.
