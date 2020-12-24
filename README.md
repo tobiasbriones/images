@@ -21,8 +21,8 @@ long as you give appropriate credit and provide a link to the license.
 
 ### Recommended Attribution
 
-The images have a name, suppose the image name is *"image-x.png"*, by formatting the image name (
-removing the file extension, replacing "-" by one whitespace and capitalizing) we have that the
+The images have a name, suppose the image name is *"image-x.png"*, by formatting the image name
+(removing the file extension, replacing "-" by one whitespace and capitalizing) we have that the
 formatted image name is *"Image X"*. An image is related to its project which has a given folder in
 this repository, suppose that the root folder is located
 at *https://github.com/TobiasBriones/images/tree/main/software-xyz*, so that *Image X* belongs
