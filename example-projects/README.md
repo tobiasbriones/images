@@ -51,10 +51,12 @@ long as you give appropriate credit and provide a link to the license.
 
 ### Recommended Attribution
 
-The images have a name, suppose the image name is _"image-x.png"_, by formatting the image name
-(removing the file extension, replacing "-" by one whitespace and capitalizing) we have that the
-formatted image name is _"Image X"_. Suppose that _Image X_ belongs to _Example Project XYZ_, the
-attribution notice goes as follows:
+The images have a name; suppose the image name is: *image-x.png*. To format an image name: remove
+the file extension, replace "-" with one white-space, and capitalize the name. By formatting the
+image name, then we have that the formatted image name is: *Image X*.
+
+Suppose that _Image X_ belongs to _Example Project: XYZ_. Then, the attribution notice goes as
+follows:
 
 > "Example Project: XYZ, Image X" by Tobias Briones is licensed under CC-BY-4.0. Available at
 > https://github.com/TobiasBriones/images/tree/main/example-projects
