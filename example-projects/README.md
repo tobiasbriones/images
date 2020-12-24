@@ -2,15 +2,17 @@
 
 [![Project GitHub License](https://img.shields.io/github/license/TobiasBriones/images.svg?style=flat-square)](https://github.com/TobiasBriones/images/blob/main/LICENSE)
 
-This repository is for hosting images of any of my projects published in GitHub.
+This repository is for hosting some of my images that are part of my projects published on GitHub.
 
 I provide all the content in this repository under the CC-BY-4.0 License.
 
-Feel free to use the images, you do not need to ask for permission to use them as long as you comply with the license.
+Feel free to use the images, you do not need to ask for permission to use them as long as you comply
+with the license.
 
 For more images, go to the [Images repository root](https://github.com/TobiasBriones/images).
 
 ## Example Projects
+
 Next, a list to access faster to one of the example projects images folders:
 
 - [Apps for Northwind DB MySQL](https://github.com/TobiasBriones/images/tree/main/example-projects/example.dev.fullstack.apps-for-northwinddb-mysql)
@@ -39,15 +41,24 @@ Next, a list to access faster to one of the example projects images folders:
 
 Copyright © Tobias Briones. All rights reserved.
 
-Creative Commons Attribution 4.0 International License: https://creativecommons.org/licenses/by/4.0/legalcode
+Creative Commons Attribution 4.0 International
+License: https://creativecommons.org/licenses/by/4.0/legalcode
 
-This content is published under the [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/), which means that you can copy, redistribute, remix, transform and build upon the content for any purpose even commercially as long as you give appropriate credit and provide a link to the license.
+This content is published under
+the [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/), which means that you can
+copy, redistribute, remix, transform and build upon the content for any purpose even commercially as
+long as you give appropriate credit and provide a link to the license.
 
 ### Recommended Attribution
 
-The images have a name, suppose the image name is _"image-x.png"_, by formatting the image name (removing the file extension, replacing "-" by one whitespace and capitalizing) we have that the formatted image name is _"Image X"_. Suppose that _Image X_ belongs to _Example Project XYZ_, the attribution notice goes as follows:
+The images have a name, suppose the image name is _"image-x.png"_, by formatting the image name (
+removing the file extension, replacing "-" by one whitespace and capitalizing) we have that the
+formatted image name is _"Image X"_. Suppose that _Image X_ belongs to _Example Project XYZ_, the
+attribution notice goes as follows:
 
 > "Example Project: XYZ, Image X" by Tobias Briones is licensed under CC-BY-4.0. Available at
-> https://github.com/TobiasBriones/images/tree/master/example-projects
+> https://github.com/TobiasBriones/images/tree/main/example-projects
 
-Where you will replace _XYZ_ by the corresponding example project name [see the list above](https://github.com/TobiasBriones/images/blob/master/example-projects/README.md#example-projects) and _Image X_ by the formatted name of the image you are using.
+Where you will replace _XYZ_ by the corresponding example project
+name [see the list above](https://github.com/TobiasBriones/images/blob/master/example-projects/README.md#example-projects)
+and _Image X_ by the formatted name of the image you are using.
