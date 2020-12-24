@@ -9,6 +9,8 @@ I provide all the content in this repository under the CC-BY-4.0 License.
 Feel free to use the images, you do not need to ask for permission to use them as long as you comply
 with the license.
 
+For more about the Example Projects, go to the [Example Project App](https://tobiasbriones.github.io/example-project).
+
 For more images, go to the [Images repository root](https://github.com/TobiasBriones/images).
 
 ## Example Projects

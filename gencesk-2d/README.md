@@ -9,7 +9,7 @@ I provide all the content in this repository under the CC-BY-4.0 License.
 Feel free to use the images, you do not need to ask for permission to use them as long as you comply
 with the license.
 
-For more about Gencesk 2D, go to [Gencesk 2D repository](https://github.com/TobiasBriones/gencesk-2d).
+For more about Gencesk 2D, go to the [Gencesk 2D Repository](https://github.com/TobiasBriones/gencesk-2d).
 
 For more images, go to [Images repository root](https://github.com/TobiasBriones/images).
 
