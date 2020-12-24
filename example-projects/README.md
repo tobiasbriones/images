@@ -59,6 +59,9 @@ attribution notice goes as follows:
 > "Example Project: XYZ, Image X" by Tobias Briones is licensed under CC-BY-4.0. Available at
 > https://github.com/TobiasBriones/images/tree/main/example-projects
 
-Where you will replace _XYZ_ by the corresponding example project
-name [see the list above](https://github.com/TobiasBriones/images/blob/master/example-projects/README.md#example-projects)
-and _Image X_ by the formatted name of the image you are using.
+Where:
+
+- You will replace _XYZ_ with the corresponding Example Project's name, 
+  [see the list above](https://github.com/TobiasBriones/images/blob/main/example-projects/README.md#example-projects).
+
+- You will replace _Image X_ with the formatted name of the image you are using.
