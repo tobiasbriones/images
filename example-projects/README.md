@@ -23,7 +23,7 @@ Next, a list to access faster to one of the example projects images folders:
 
 - [FSM](https://github.com/TobiasBriones/images/tree/main/example-projects/example.math.computation.model.cpp.fsm)
 
-- [Machine Replacement](https://github.com/TobiasBriones/images/tree/main/example-projects/example.math.or.model.web.machine-replacement)
+- [Machine Replacement Model](https://github.com/TobiasBriones/images/tree/main/example-projects/example.math.or.model.web.machine-replacement)
 
 - [Misc Computations in JS](https://github.com/TobiasBriones/images/tree/main/example-projects/example.math.computation.js.misc-computations-in-js)
 
