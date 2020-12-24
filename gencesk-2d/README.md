@@ -27,12 +27,16 @@ long as you give appropriate credit and provide a link to the license.
 
 ### Recommended Attribution
 
-The images have a name, suppose the image name is *"image-x.png"*, by formatting the image name
-(removing the file extension, replacing "-" by one whitespace and capitalizing) we have that the
-formatted image name is *"Image X"*. Since *Image X* belongs to *Gencesk 2D*, the attribution notice
+The images have a name; suppose the image name is: *image-x.png*. To format an image name: remove
+the file extension, replace "-" with one white-space, and capitalize the name. By formatting the
+image name, then we have that the formatted image name is: *Image X*.
+
+Since *Image X* belongs to *Gencesk 2D*, the attribution notice
 goes as follows:
 
 > "Image X" by Tobias Briones is licensed under CC-BY-4.0. Available at
 > https://github.com/TobiasBriones/images/tree/main/gencesk-2d
 
-Where you will replace *Image X* with the formatted name of the image you are using.
+Where: 
+
+- You will replace *Image X* with the formatted name of the image you are using.
