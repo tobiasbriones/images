@@ -1,6 +1,6 @@
 # Example Projects Images
 
-[![License](https://img.shields.io/github/license/TobiasBriones/images)](https://github.com/TobiasBriones/images/blob/master/LICENSE)
+[![Project GitHub License](https://img.shields.io/github/license/TobiasBriones/images.svg?style=flat-square)](https://github.com/TobiasBriones/images/blob/main/LICENSE)
 
 This repository is for hosting images of any of my projects published in GitHub.
 
@@ -13,17 +13,27 @@ For more images, go to the [Images repository root](https://github.com/TobiasBri
 ## Example Projects
 Next, a list to access faster to one of the example projects images folders:
 
-- [Apps for Northwind DB MySQL](https://github.com/TobiasBriones/images/tree/master/example-projects/example.dev.fullstack.apps-for-northwinddb-mysql)
-- [Coniestica](https://github.com/TobiasBriones/images/tree/master/example-projects/example.programming.web.coniestica)
-- [Decision Making Under Certainty](https://github.com/TobiasBriones/images/tree/master/example-projects/example.math.or.ahp.web.decision-making-under-certainty)
-- [Factura](https://github.com/TobiasBriones/images/tree/master/example-projects/example.programming.java.factura)
-- [FSM](https://github.com/TobiasBriones/images/tree/master/example-projects/example.math.computation.model.cpp.fsm)
-- [Machine Replacement](https://github.com/TobiasBriones/images/tree/master/example-projects/example.math.or.model.web.machine-replacement)
-- [Misc Computations in JS](https://github.com/TobiasBriones/images/tree/master/example-projects/example.math.computation.js.misc-computations-in-js)
-- [Point2D GA](https://github.com/TobiasBriones/images/tree/master/example-projects/example.cs.optimization.algorithm.web.point2d-ga)
-- [QR Factorization](https://github.com/TobiasBriones/images/tree/master/example-projects/example.math.linear-algebra.web.qr-factorization)
-- [Secant Method](https://github.com/TobiasBriones/images/tree/master/example-projects/example.math.numerical.polynomial.cpp.secant-method)
-- [WPARP](https://github.com/TobiasBriones/images/tree/master/example-projects/example.programming.tool.php.wparp)
+- [Apps for Northwind DB MySQL](https://github.com/TobiasBriones/images/tree/main/example-projects/example.dev.fullstack.apps-for-northwinddb-mysql)
+
+- [Coniestica](https://github.com/TobiasBriones/images/tree/main/example-projects/example.programming.web.coniestica)
+
+- [Decision Making Under Certainty](https://github.com/TobiasBriones/images/tree/main/example-projects/example.math.or.ahp.web.decision-making-under-certainty)
+
+- [Factura](https://github.com/TobiasBriones/images/tree/main/example-projects/example.programming.java.factura)
+
+- [FSM](https://github.com/TobiasBriones/images/tree/main/example-projects/example.math.computation.model.cpp.fsm)
+
+- [Machine Replacement](https://github.com/TobiasBriones/images/tree/main/example-projects/example.math.or.model.web.machine-replacement)
+
+- [Misc Computations in JS](https://github.com/TobiasBriones/images/tree/main/example-projects/example.math.computation.js.misc-computations-in-js)
+
+- [Point2D GA](https://github.com/TobiasBriones/images/tree/main/example-projects/example.cs.optimization.algorithm.web.point2d-ga)
+
+- [QR Factorization](https://github.com/TobiasBriones/images/tree/main/example-projects/example.math.linear-algebra.web.qr-factorization)
+
+- [Secant Method](https://github.com/TobiasBriones/images/tree/main/example-projects/example.math.numerical.polynomial.cpp.secant-method)
+
+- [WPARP](https://github.com/TobiasBriones/images/tree/main/example-projects/example.programming.tool.php.wparp)
 
 ## License
 
