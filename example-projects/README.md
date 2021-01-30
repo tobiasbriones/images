@@ -17,7 +17,7 @@ For more images, go to the [Images repository root](https://github.com/TobiasBri
 
 Next, a list to access faster to one of the example projects images folders:
 
-- [Apps for Northwind DB MySQL](https://github.com/TobiasBriones/images/tree/main/example-projects/example.dev.fullstack.apps-for-northwinddb-mysql)
+- [Apps for the MySQL Northwind DB](https://github.com/TobiasBriones/images/tree/main/example-projects/example.dev.fullstack.apps-for-mysql-northwind-db)
 
 - [Coniestica](https://github.com/TobiasBriones/images/tree/main/example-projects/example.programming.web.coniestica)
 
